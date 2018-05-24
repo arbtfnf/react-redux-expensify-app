@@ -13,3 +13,8 @@
 .button--link {
     background: none;
 }
+
+.button__remove {
+    @extend .button;
+    background: $new-color;
+}
