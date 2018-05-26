@@ -1,4 +1,4 @@
-Expensify App
+**Expensify App**
 
 ===========
 
@@ -28,6 +28,8 @@ Used:
 *Airbnb library
 *Redux
 *Babel
+*JSX
+*SCSS
 ```
 
 
