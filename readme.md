@@ -1,6 +1,8 @@
-#Expensify App
+Expensify App
 
-####React-Redux based Web-App to track daily expense with date
+===========
+
+React-Redux based Web-App to track daily expense with date
 
 **Installation**
 ```
