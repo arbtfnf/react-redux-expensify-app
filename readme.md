@@ -8,6 +8,13 @@ React-Redux based Web-App to track daily expense with date
 ```
 yarn install
 ```
+
+**To run**
+```
+yarn run dev-server
+
+```
+
 ![img1](https://user-images.githubusercontent.com/11007682/40580894-2d4b0e8a-6167-11e8-8b75-70bc4d7f8d4e.png)
 
 **Google firebase Login to enter**
