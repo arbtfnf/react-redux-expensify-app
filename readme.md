@@ -4,8 +4,11 @@
 
 React-Redux based Web-App to track daily expense with date
 
+
 **Installation**
 ```
+For Mac/Linux
+
 yarn install
 ```
 
